@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of ANALISE DE RENTABILIDADE",
+  "description": "An intelligent financial analysis tool that correlates data from multiple files (CSV, JSON, TXT) to generate Power BI-style insights using Google Gemini.",
+  "requestFramePermissions": []
+}
